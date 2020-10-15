@@ -1,3 +1,6 @@
+This code is associated with the paper from Antonini et al., "Extended field-of-view ultrathin
+microendoscopes for high-resolution twophoton imaging with minimal invasiveness". eLife, 2020. http://doi.org/10.7554/eLife.58882
+
 # eFOV_microendoscopes_sim
 Simulations code for Antonini et al, 2020, bioRxiv
 
